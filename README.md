@@ -1,4 +1,13 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-dH0291Y)
+
+# **Here is my first fancy Markdown**
+_I think I have understood most of it, I will need to practice a bit more and get used to syntax_
+> I am having issues with seeing the code from the repository I started and is just showing gibberish
+1. And here is how to indent to show code examples 
+   - here is the first indented line of code
+     - here is the second indention
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
