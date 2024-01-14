@@ -26,6 +26,11 @@ namespace DelegatePassing
         {
             data /= 2;
         }
+        //added a function to display a message
+        private void fixedNewFunction()
+        {
+            MessageBox.Show("Mr. T is the best teacher ever... plz be understanding of my slow brain this semester...");
+        }
 
         private void ShowResult(ref double myvalue, DoSomething MyMethod)
         {
